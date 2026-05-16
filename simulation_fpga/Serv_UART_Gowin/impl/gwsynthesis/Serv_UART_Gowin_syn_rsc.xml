@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="system_top" Register="8" Lut="25" Bsram="9" T_Register="275(8)" T_Alu="31(0)" T_Lut="446(25)" T_Bsram="10(9)" T_Ssram="1(0)">
+ <SubModule name="cpu" T_Register="168(0)" T_Lut="299(0)" T_Bsram="1(0)" T_Ssram="1(0)">
+  <SubModule name="rf_ram_if" Register="18" Lut="43" T_Register="18(18)" T_Lut="43(43)"/>
+  <SubModule name="rf_ram" Register="1" Lut="3" Bsram="1" T_Register="1(1)" T_Lut="3(3)" T_Bsram="1(1)"/>
+  <SubModule name="cpu" T_Register="149(0)" T_Lut="253(0)" T_Ssram="1(0)">
+   <SubModule name="state" Register="11" Lut="19" T_Register="11(11)" T_Lut="19(19)"/>
+   <SubModule name="decode" Register="13" T_Register="13(13)"/>
+   <SubModule name="immdec" Register="27" Lut="41" T_Register="27(27)" T_Lut="41(41)"/>
+   <SubModule name="bufreg" Register="22" Lut="24" Ssram="1" T_Register="22(22)" T_Lut="24(24)" T_Ssram="1(1)"/>
+   <SubModule name="bufreg2" Register="32" Lut="86" T_Register="32(32)" T_Lut="86(86)"/>
+   <SubModule name="ctrl" Register="34" Lut="19" T_Register="34(34)" T_Lut="19(19)"/>
+   <SubModule name="alu" Register="2" Lut="15" T_Register="2(2)" T_Lut="15(15)"/>
+   <SubModule name="rf_if" Lut="28" T_Lut="28(28)"/>
+   <SubModule name="mem_if" Register="1" Lut="1" T_Register="1(1)" T_Lut="1(1)"/>
+   <SubModule name="gen_csr.csr" Register="7" Lut="20" T_Register="7(7)" T_Lut="20(20)"/>
+  </SubModule>
+ </SubModule>
+ <SubModule name="uart_inst" Register="99" Alu="31" Lut="122" T_Register="99(99)" T_Alu="31(31)" T_Lut="122(122)"/>
+</Module>

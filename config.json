@@ -1,0 +1,21 @@
+{
+    "DESIGN_NAME": "serv_synth_wrapper",
+    "VERILOG_FILES": "dir::src/rtl/*.v",
+    "CLOCK_PORT": "clk",
+    "CLOCK_PERIOD": 20,
+    "FP_CORE_UTIL": 44,
+    "FP_SIZING": "relative",
+    "FP_ASPECT_RATIO": 1,
+    "FP_IO_VSPACING": 1.9,
+    "FP_IO_HSPACING": 1.9,
+    "PL_TARGET_DENSITY": 0.60,
+    "CELL_PAD": 0,
+    "PL_TIME_DRIVEN": 0,
+    "FP_PDN_VPITCH": 180,
+    "FP_PDN_HPITCH": 180,
+    "SYNTH_STRATEGY": "AREA 0",
+    "DIODE_INSERTION_STRATEGY": 3,
+    "QUIT_ON_TIMING_VIOLATIONS": true,
+    "QUIT_ON_LVS_ERROR": true,
+    "QUIT_ON_MAGIC_DRC": true
+}

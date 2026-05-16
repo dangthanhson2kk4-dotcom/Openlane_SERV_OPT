@@ -1,0 +1,6 @@
+<< properties >>
+string FIXED_BBOX 0 0 31390 33534
+string GDS_END 3274542
+string GDS_FILE /openlane/designs/serv_opt/runs/Routing/results/signoff/serv_synth_wrapper.magic.gds
+string GDS_START 536586
+<< end >>

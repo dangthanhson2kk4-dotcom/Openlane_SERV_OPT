@@ -1,0 +1,29 @@
+Reading netlist file: "C:\Users\admin\Desktop\Serv_UART_Gowin\impl\gwsynthesis\Serv_UART_Gowin.vg"
+Parsing netlist file "C:\Users\admin\Desktop\Serv_UART_Gowin\impl\gwsynthesis\Serv_UART_Gowin.vg" completed
+Processing netlist completed
+Reading constraint file: "C:\Users\admin\Desktop\Serv_UART_Gowin\src\Serv_UART_Gowin.cst"
+Physical Constraint parsed completed
+Running placement......
+[10%] Placement Phase 0 completed
+[20%] Placement Phase 1 completed
+[30%] Placement Phase 2 completed
+[50%] Placement Phase 3 completed
+Running routing......
+[60%] Routing Phase 0 completed
+[70%] Routing Phase 1 completed
+[80%] Routing Phase 2 completed
+[90%] Routing Phase 3 completed
+Running timing analysis......
+[95%] Timing analysis completed
+Placement and routing completed
+Bitstream generation in progress......
+Bitstream generation completed
+Running power analysis......
+[100%] Power analysis completed
+Generate file "C:\Users\admin\Desktop\Serv_UART_Gowin\impl\pnr\Serv_UART_Gowin.power.html" completed
+Generate file "C:\Users\admin\Desktop\Serv_UART_Gowin\impl\pnr\Serv_UART_Gowin.pin.html" completed
+Generate file "C:\Users\admin\Desktop\Serv_UART_Gowin\impl\pnr\Serv_UART_Gowin.rpt.html" completed
+Generate file "C:\Users\admin\Desktop\Serv_UART_Gowin\impl\pnr\Serv_UART_Gowin.rpt.txt" completed
+Generate file "C:\Users\admin\Desktop\Serv_UART_Gowin\impl\pnr\Serv_UART_Gowin.tr.html" completed
+Tue Apr 28 01:34:07 2026
+

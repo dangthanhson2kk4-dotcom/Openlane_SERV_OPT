@@ -1,0 +1,93 @@
+{
+ "Device" : "GW1NR-9C",
+ "Files" : [
+  {
+   "Path" : "C:/Users/Admin/OneDrive/M\u00e1y t\u00ednh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_aligner.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Admin/OneDrive/M\u00e1y t\u00ednh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_alu.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Admin/OneDrive/M\u00e1y t\u00ednh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_bufreg.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Admin/OneDrive/M\u00e1y t\u00ednh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_bufreg2.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Admin/OneDrive/M\u00e1y t\u00ednh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_compdec.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Admin/OneDrive/M\u00e1y t\u00ednh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_csr.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Admin/OneDrive/M\u00e1y t\u00ednh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_ctrl.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Admin/OneDrive/M\u00e1y t\u00ednh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_debug.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Admin/OneDrive/M\u00e1y t\u00ednh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_decode.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Admin/OneDrive/M\u00e1y t\u00ednh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_immdec.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Admin/OneDrive/M\u00e1y t\u00ednh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_mem_if.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Admin/OneDrive/M\u00e1y t\u00ednh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_rf_if.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Admin/OneDrive/M\u00e1y t\u00ednh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_rf_ram.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Admin/OneDrive/M\u00e1y t\u00ednh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_rf_ram_if.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Admin/OneDrive/M\u00e1y t\u00ednh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_rf_top.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Admin/OneDrive/M\u00e1y t\u00ednh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_state.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Admin/OneDrive/M\u00e1y t\u00ednh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_synth_wrapper.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Admin/OneDrive/M\u00e1y t\u00ednh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_top.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Admin/OneDrive/M\u00e1y t\u00ednh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/simpleuart.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/Admin/OneDrive/M\u00e1y t\u00ednh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/system_top.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "C:/Users/Admin/OneDrive/M\u00e1y t\u00ednh/LQ/ThietkeVimachSo/Serv_UART_Gowin/impl/temp/rtl_parser.result",
+ "Top" : "system_top",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

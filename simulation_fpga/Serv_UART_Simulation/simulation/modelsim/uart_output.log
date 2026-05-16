@@ -1,0 +1,16 @@
+\r
+===============================\r
+      FROM D22DTVM2 PTIT       \r
+===============================\r
+=========Nhom04-TKVMS==========\r
+  [1]: Bat tat ca LED (ON)\r
+  [2]: Tat tat ca LED (OFF)\r
+  [3]: LED chop nhay xen ke\r
+-------------------------------\r
+Vui long chon lenh: 1\r
+-> Thanh cong: LED Da BAT!\r
+\r
+Chon lenh: 2\r
+-> Thanh cong: LED Da TAT!\r
+\r
+Chon lenh: 3\r

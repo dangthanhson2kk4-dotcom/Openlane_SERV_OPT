@@ -1,0 +1,1 @@
+lvs {/openlane/designs/serv_opt/runs/Routing/results/signoff/serv_synth_wrapper.spice serv_synth_wrapper} {/openlane/designs/serv_opt/runs/Routing/tmp/signoff/30-serv_synth_wrapper.pnl.v serv_synth_wrapper} /home/ubuntu/.ciel/sky130A/libs.tech/netgen/sky130A_setup.tcl /openlane/designs/serv_opt/runs/Routing/logs/signoff/33-serv_synth_wrapper.lef.lvs.log -json

@@ -1,0 +1,70 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'C:\Users\admin\Desktop\Serv_UART_Gowin\src\serv_aligner.v'
+Analyzing Verilog file 'C:\Users\admin\Desktop\Serv_UART_Gowin\src\serv_alu.v'
+Analyzing Verilog file 'C:\Users\admin\Desktop\Serv_UART_Gowin\src\serv_bufreg.v'
+Analyzing Verilog file 'C:\Users\admin\Desktop\Serv_UART_Gowin\src\serv_bufreg2.v'
+Analyzing Verilog file 'C:\Users\admin\Desktop\Serv_UART_Gowin\src\serv_compdec.v'
+Analyzing Verilog file 'C:\Users\admin\Desktop\Serv_UART_Gowin\src\serv_csr.v'
+Analyzing Verilog file 'C:\Users\admin\Desktop\Serv_UART_Gowin\src\serv_ctrl.v'
+Analyzing Verilog file 'C:\Users\admin\Desktop\Serv_UART_Gowin\src\serv_debug.v'
+Analyzing Verilog file 'C:\Users\admin\Desktop\Serv_UART_Gowin\src\serv_decode.v'
+Analyzing Verilog file 'C:\Users\admin\Desktop\Serv_UART_Gowin\src\serv_immdec.v'
+Analyzing Verilog file 'C:\Users\admin\Desktop\Serv_UART_Gowin\src\serv_mem_if.v'
+Analyzing Verilog file 'C:\Users\admin\Desktop\Serv_UART_Gowin\src\serv_rf_if.v'
+Analyzing Verilog file 'C:\Users\admin\Desktop\Serv_UART_Gowin\src\serv_rf_ram.v'
+Analyzing Verilog file 'C:\Users\admin\Desktop\Serv_UART_Gowin\src\serv_rf_ram_if.v'
+Analyzing Verilog file 'C:\Users\admin\Desktop\Serv_UART_Gowin\src\serv_rf_top.v'
+Analyzing Verilog file 'C:\Users\admin\Desktop\Serv_UART_Gowin\src\serv_state.v'
+Analyzing Verilog file 'C:\Users\admin\Desktop\Serv_UART_Gowin\src\serv_synth_wrapper.v'
+Analyzing Verilog file 'C:\Users\admin\Desktop\Serv_UART_Gowin\src\serv_top.v'
+Analyzing Verilog file 'C:\Users\admin\Desktop\Serv_UART_Gowin\src\simpleuart.v'
+Analyzing Verilog file 'C:\Users\admin\Desktop\Serv_UART_Gowin\src\system_top.v'
+Compiling module 'system_top'("C:\Users\admin\Desktop\Serv_UART_Gowin\src\system_top.v":24)
+Extracting RAM for identifier 'imem0'("C:\Users\admin\Desktop\Serv_UART_Gowin\src\system_top.v":100)
+Extracting RAM for identifier 'imem1'("C:\Users\admin\Desktop\Serv_UART_Gowin\src\system_top.v":101)
+Extracting RAM for identifier 'imem2'("C:\Users\admin\Desktop\Serv_UART_Gowin\src\system_top.v":102)
+Extracting RAM for identifier 'imem3'("C:\Users\admin\Desktop\Serv_UART_Gowin\src\system_top.v":103)
+Extracting RAM for identifier 'dmem0'("C:\Users\admin\Desktop\Serv_UART_Gowin\src\system_top.v":108)
+Extracting RAM for identifier 'dmem1'("C:\Users\admin\Desktop\Serv_UART_Gowin\src\system_top.v":109)
+Extracting RAM for identifier 'dmem2'("C:\Users\admin\Desktop\Serv_UART_Gowin\src\system_top.v":110)
+Extracting RAM for identifier 'dmem3'("C:\Users\admin\Desktop\Serv_UART_Gowin\src\system_top.v":111)
+Compiling module 'serv_rf_top(RESET_PC=32'h0000_0000)'("C:\Users\admin\Desktop\Serv_UART_Gowin\src\serv_rf_top.v":9)
+Compiling module 'serv_rf_ram_if(width=2)'("C:\Users\admin\Desktop\Serv_UART_Gowin\src\serv_rf_ram_if.v":8)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 5("C:\Users\admin\Desktop\Serv_UART_Gowin\src\serv_rf_ram_if.v":100)
+Compiling module 'serv_rf_ram(width=2)'("C:\Users\admin\Desktop\Serv_UART_Gowin\src\serv_rf_ram.v":7)
+Extracting RAM for identifier 'memory'("C:\Users\admin\Desktop\Serv_UART_Gowin\src\serv_rf_ram.v":19)
+Compiling module 'serv_top(RESET_PC=32'b00000000000000000000000000000000,COMPRESSED=1'b0,ALIGN=1'b0)'("C:\Users\admin\Desktop\Serv_UART_Gowin\src\serv_top.v":9)
+Compiling module 'serv_state(WITH_CSR=1'b1,ALIGN=1'b0,MDU=1'b0)'("C:\Users\admin\Desktop\Serv_UART_Gowin\src\serv_state.v":7)
+Compiling module 'serv_decode(MDU=1'b0)'("C:\Users\admin\Desktop\Serv_UART_Gowin\src\serv_decode.v":8)
+Compiling module 'serv_immdec'("C:\Users\admin\Desktop\Serv_UART_Gowin\src\serv_immdec.v":8)
+Compiling module 'serv_bufreg(MDU=1'b0)'("C:\Users\admin\Desktop\Serv_UART_Gowin\src\serv_bufreg.v":7)
+Compiling module 'serv_bufreg2'("C:\Users\admin\Desktop\Serv_UART_Gowin\src\serv_bufreg2.v":7)
+Compiling module 'serv_ctrl(RESET_PC=32'b00000000000000000000000000000000)'("C:\Users\admin\Desktop\Serv_UART_Gowin\src\serv_ctrl.v":8)
+Compiling module 'serv_alu'("C:\Users\admin\Desktop\Serv_UART_Gowin\src\serv_alu.v":8)
+Compiling module 'serv_rf_if'("C:\Users\admin\Desktop\Serv_UART_Gowin\src\serv_rf_if.v":8)
+Compiling module 'serv_mem_if(WITH_CSR=1'b1)'("C:\Users\admin\Desktop\Serv_UART_Gowin\src\serv_mem_if.v":8)
+Compiling module 'serv_csr'("C:\Users\admin\Desktop\Serv_UART_Gowin\src\serv_csr.v":8)
+Compiling module 'simpleuart(DEFAULT_DIV=234)'("C:\Users\admin\Desktop\Serv_UART_Gowin\src\simpleuart.v":20)
+WARN  (EX3791) : Expression size 5 truncated to fit in target size 4("C:\Users\admin\Desktop\Serv_UART_Gowin\src\simpleuart.v":99)
+WARN  (EX3791) : Expression size 32 truncated to fit in target size 4("C:\Users\admin\Desktop\Serv_UART_Gowin\src\simpleuart.v":132)
+NOTE  (EX0101) : Current top module is "system_top"
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+[95%] Generate netlist file "C:\Users\admin\Desktop\Serv_UART_Gowin\impl\gwsynthesis\Serv_UART_Gowin.vg" completed
+[100%] Generate report file "C:\Users\admin\Desktop\Serv_UART_Gowin\impl\gwsynthesis\Serv_UART_Gowin_syn.rpt.html" completed
+GowinSynthesis finish

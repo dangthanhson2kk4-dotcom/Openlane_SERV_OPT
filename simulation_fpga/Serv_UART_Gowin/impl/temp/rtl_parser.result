@@ -1,0 +1,244 @@
+[
+ {
+  "InstFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_synth_wrapper.v",
+  "InstLine" : 9,
+  "InstName" : "serv_synth_wrapper",
+  "ModuleFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_synth_wrapper.v",
+  "ModuleLine" : 9,
+  "ModuleName" : "serv_synth_wrapper",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_synth_wrapper.v",
+    "InstLine" : 68,
+    "InstName" : "rf_ram_if",
+    "ModuleFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_rf_ram_if.v",
+    "ModuleLine" : 8,
+    "ModuleName" : "serv_rf_ram_if"
+   },
+   {
+    "InstFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_synth_wrapper.v",
+    "InstLine" : 96,
+    "InstName" : "cpu",
+    "ModuleFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_top.v",
+    "ModuleLine" : 9,
+    "ModuleName" : "serv_top",
+    "SubInsts" : [
+     {
+      "InstFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_top.v",
+      "InstLine" : 237,
+      "InstName" : "state",
+      "ModuleFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_state.v",
+      "ModuleLine" : 7,
+      "ModuleName" : "serv_state"
+     },
+     {
+      "InstFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_top.v",
+      "InstLine" : 295,
+      "InstName" : "decode",
+      "ModuleFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_decode.v",
+      "ModuleLine" : 8,
+      "ModuleName" : "serv_decode"
+     },
+     {
+      "InstFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_top.v",
+      "InstLine" : 357,
+      "InstName" : "immdec",
+      "ModuleFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_immdec.v",
+      "ModuleLine" : 8,
+      "ModuleName" : "serv_immdec"
+     },
+     {
+      "InstFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_top.v",
+      "InstLine" : 380,
+      "InstName" : "bufreg",
+      "ModuleFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_bufreg.v",
+      "ModuleLine" : 7,
+      "ModuleName" : "serv_bufreg"
+     },
+     {
+      "InstFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_top.v",
+      "InstLine" : 407,
+      "InstName" : "bufreg2",
+      "ModuleFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_bufreg2.v",
+      "ModuleLine" : 7,
+      "ModuleName" : "serv_bufreg2"
+     },
+     {
+      "InstFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_top.v",
+      "InstLine" : 437,
+      "InstName" : "ctrl",
+      "ModuleFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_ctrl.v",
+      "ModuleLine" : 8,
+      "ModuleName" : "serv_ctrl"
+     },
+     {
+      "InstFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_top.v",
+      "InstLine" : 463,
+      "InstName" : "alu",
+      "ModuleFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_alu.v",
+      "ModuleLine" : 8,
+      "ModuleName" : "serv_alu"
+     },
+     {
+      "InstFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_top.v",
+      "InstLine" : 484,
+      "InstName" : "rf_if",
+      "ModuleFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_rf_if.v",
+      "ModuleLine" : 8,
+      "ModuleName" : "serv_rf_if"
+     },
+     {
+      "InstFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_top.v",
+      "InstLine" : 534,
+      "InstName" : "mem_if",
+      "ModuleFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_mem_if.v",
+      "ModuleLine" : 8,
+      "ModuleName" : "serv_mem_if"
+     },
+     {
+      "InstFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_top.v",
+      "InstLine" : 557,
+      "InstName" : "gen_csr.csr",
+      "ModuleFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_csr.v",
+      "ModuleLine" : 8,
+      "ModuleName" : "serv_csr"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "InstFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/system_top.v",
+  "InstLine" : 24,
+  "InstName" : "system_top",
+  "ModuleFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/system_top.v",
+  "ModuleLine" : 24,
+  "ModuleName" : "system_top",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/system_top.v",
+    "InstLine" : 56,
+    "InstName" : "cpu",
+    "ModuleFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_rf_top.v",
+    "ModuleLine" : 9,
+    "ModuleName" : "serv_rf_top",
+    "SubInsts" : [
+     {
+      "InstFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_rf_top.v",
+      "InstLine" : 117,
+      "InstName" : "rf_ram_if",
+      "ModuleFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_rf_ram_if.v",
+      "ModuleLine" : 8,
+      "ModuleName" : "serv_rf_ram_if"
+     },
+     {
+      "InstFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_rf_top.v",
+      "InstLine" : 143,
+      "InstName" : "rf_ram",
+      "ModuleFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_rf_ram.v",
+      "ModuleLine" : 7,
+      "ModuleName" : "serv_rf_ram"
+     },
+     {
+      "InstFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_rf_top.v",
+      "InstLine" : 162,
+      "InstName" : "cpu",
+      "ModuleFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_top.v",
+      "ModuleLine" : 9,
+      "ModuleName" : "serv_top",
+      "SubInsts" : [
+       {
+        "InstFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_top.v",
+        "InstLine" : 237,
+        "InstName" : "state",
+        "ModuleFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_state.v",
+        "ModuleLine" : 7,
+        "ModuleName" : "serv_state"
+       },
+       {
+        "InstFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_top.v",
+        "InstLine" : 295,
+        "InstName" : "decode",
+        "ModuleFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_decode.v",
+        "ModuleLine" : 8,
+        "ModuleName" : "serv_decode"
+       },
+       {
+        "InstFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_top.v",
+        "InstLine" : 357,
+        "InstName" : "immdec",
+        "ModuleFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_immdec.v",
+        "ModuleLine" : 8,
+        "ModuleName" : "serv_immdec"
+       },
+       {
+        "InstFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_top.v",
+        "InstLine" : 380,
+        "InstName" : "bufreg",
+        "ModuleFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_bufreg.v",
+        "ModuleLine" : 7,
+        "ModuleName" : "serv_bufreg"
+       },
+       {
+        "InstFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_top.v",
+        "InstLine" : 407,
+        "InstName" : "bufreg2",
+        "ModuleFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_bufreg2.v",
+        "ModuleLine" : 7,
+        "ModuleName" : "serv_bufreg2"
+       },
+       {
+        "InstFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_top.v",
+        "InstLine" : 437,
+        "InstName" : "ctrl",
+        "ModuleFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_ctrl.v",
+        "ModuleLine" : 8,
+        "ModuleName" : "serv_ctrl"
+       },
+       {
+        "InstFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_top.v",
+        "InstLine" : 463,
+        "InstName" : "alu",
+        "ModuleFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_alu.v",
+        "ModuleLine" : 8,
+        "ModuleName" : "serv_alu"
+       },
+       {
+        "InstFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_top.v",
+        "InstLine" : 484,
+        "InstName" : "rf_if",
+        "ModuleFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_rf_if.v",
+        "ModuleLine" : 8,
+        "ModuleName" : "serv_rf_if"
+       },
+       {
+        "InstFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_top.v",
+        "InstLine" : 534,
+        "InstName" : "mem_if",
+        "ModuleFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_mem_if.v",
+        "ModuleLine" : 8,
+        "ModuleName" : "serv_mem_if"
+       },
+       {
+        "InstFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_top.v",
+        "InstLine" : 557,
+        "InstName" : "gen_csr.csr",
+        "ModuleFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/serv_csr.v",
+        "ModuleLine" : 8,
+        "ModuleName" : "serv_csr"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "InstFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/system_top.v",
+    "InstLine" : 193,
+    "InstName" : "uart_inst",
+    "ModuleFile" : "C:/Users/Admin/OneDrive/M\ufffdy t\ufffdnh/LQ/ThietkeVimachSo/Serv_UART_Gowin/src/simpleuart.v",
+    "ModuleLine" : 20,
+    "ModuleName" : "simpleuart"
+   }
+  ]
+ }
+]
